@@ -4,4 +4,28 @@
 
 ** 效果图
 
-<待补充>
+[[file:images/1.png]]
+
+[[file:images/2.png]]
+
+[[file:images/3.png]]
+
+[[file:images/4.png]]
+
+[[file:images/5.png]]
+
+[[file:images/6.png]]
+
+[[file:images/7.png]]
+
+[[file:images/8.png]]
+
+[[file:images/9.png]]
+
+[[file:images/10.png]]
+
+[[file:images/11.png]]
+
+** 公众号
+
+[[file:images/write-prompt-mp.png]]
